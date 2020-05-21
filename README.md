@@ -1,6 +1,5 @@
-# Python toolbox for the FUTURE3D TianChi AI Challenge
-This python based toolbox provides demos on how to render images, and project/reprojecte 3D/2D points using FUTURE3D data.
-
+# Python toolbox for the FUTURE3D Dataset
+This python based toolbox provides demos on how to use FUTURE3D dataset.
 ## Requirements
 
 * Blender 2.7.9b (<https://www.blender.org/download/releases/2-79/>)
@@ -92,4 +91,9 @@ bash scripts/demo_reprojection_mv.sh
 ```
 bash scripts/demo_render_object_with_texture_pose.sh
 ```
+
+##Acknowledgements
+Some part of code are borrowed from [3D-R2N2](https://github.com/chrischoy/3D-R2N2)
+## Contact
+If you have any questions, please contact 3dfuture@list.alibaba-inc.com
 
