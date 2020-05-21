@@ -93,7 +93,12 @@ bash scripts/demo_render_object_with_texture_pose.sh
 ```
 
 ## Acknowledgements
-Some part of code are borrowed from [3D-R2N2](https://github.com/chrischoy/3D-R2N2)
+We borrow some codes from [3D-R2N2](https://github.com/chrischoy/3D-R2N2) to develop our toolbox.
+
+## Citation
+If you use this toolbox for your research, please agree the terms and conditions in the **"3D-FUTURE Data Sets Use License Agreement"**: [English Version](https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202004171628_60052.html?spm=5176.12281978.0.0.6eff46f7Gf5bF5), [中文版](https://terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao202004171629_62372.html?spm=5176.12281978.0.0.6eff46f7Gf5bF5), and cite our paper(will be publised soon).
+
+
 ## Contact
 If you have any questions, please contact 3dfuture@list.alibaba-inc.com
 
