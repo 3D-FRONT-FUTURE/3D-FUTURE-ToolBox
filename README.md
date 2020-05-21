@@ -1,5 +1,5 @@
 # Python toolbox for the FUTURE3D TianChi AI Challenge
-This python based toolbox provides demos on how to render images, and project/reprojecte 3D/2D points using FUTURE3D data.
+This python based toolbox provides demos on how to render images, and project/reprojecte 3D/2D points.
 
 ## Requirements
 
