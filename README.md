@@ -92,7 +92,7 @@ bash scripts/demo_reprojection_mv.sh
 bash scripts/demo_render_object_with_texture_pose.sh
 ```
 
-##Acknowledgements
+## Acknowledgements
 Some part of code are borrowed from [3D-R2N2](https://github.com/chrischoy/3D-R2N2)
 ## Contact
 If you have any questions, please contact 3dfuture@list.alibaba-inc.com
