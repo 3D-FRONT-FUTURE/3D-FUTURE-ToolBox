@@ -35,8 +35,7 @@ bash scripts/demo_render_scene_image.sh
 ```
 bash scripts/demo_project_scene.sh
 ```
-
-![avatar](samples/scene_new.png)
+<div align=center><img src="samples/scene_new.png" width="100%" ></div>
 
 
 ### 2. Multi-view images
